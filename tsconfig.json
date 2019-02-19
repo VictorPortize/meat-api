@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "target": "es6",
+        "module": "commonjs",
+        "removeComments": true,
+    },
+    "exclude": [
+        "**/*.test.ts"
+    ]
+}
